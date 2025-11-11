@@ -25,8 +25,8 @@
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd express-typescript-openapi-boilerplate
+git clone [<repository-url>](https://github.com/fishuke/express-typescript-boilerplate.git)
+cd express-typescript-boilerplate
 ```
 
 2. Install dependencies:
